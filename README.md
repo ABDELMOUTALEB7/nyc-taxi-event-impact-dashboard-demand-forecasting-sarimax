@@ -1,4 +1,4 @@
-# NYC Taxi — Event Impact Dashboard (Power BI + SARIMAX) | 2024–2026
+# NYC Taxi - Event Impact Dashboard (Power BI + SARIMAX) | 2024–2026
 
 This project analyzes how major high-activity periods influence NYC taxi demand and revenue patterns, and provides a forecasting layer to anticipate future demand using SARIMAX.
 
